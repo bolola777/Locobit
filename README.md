@@ -1,2 +1,3 @@
 # Locobit
 Locobit
+LKO
